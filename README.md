@@ -40,10 +40,10 @@ pizzaList.removePizzaFromPizzaList(0);
 
 // Add more pizzas, remove all pizzas, etc.
 ```
-##Contributing
+## Contributing
 Contributions to enhance the functionality, improve code quality, or fix bugs are welcome. Please fork the repository, make your changes, and submit a pull request for review.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to customize it further or add more sections based on your project's needs.
